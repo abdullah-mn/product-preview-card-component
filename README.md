@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL here](https://www.frontendmentor.io/solutions/responsive-mobilefirst-card-component-using-flexbox-yWWG8KKfhu)
-- [Live site URL here](https://des2dev.github.io/product-preview-card-component/)
+- [Live site URL here](https://abdullah-mn.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -88,4 +88,4 @@ In above example 2,
 
 ## Author
 
-- Frontend Mentor - [@Des2Dev](https://www.frontendmentor.io/profile/Des2Dev)
+- Frontend Mentor - [@abdullah-mn](https://www.frontendmentor.io/profile/abdullah-mn)
